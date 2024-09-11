@@ -1,4 +1,5 @@
-![GitHub preview](https://github.com/user-attachments/assets/36981a14-cb97-410c-9fdd-0a5256edac54)
+![Github](https://github.com/user-attachments/assets/5bfd9c00-7fef-4d5a-a5e3-0bd795bb5691)
+
 ## Hi there 👋
 - 🔭 I’m currently working on **github.com/openingwiki**
 - 🌱 I’m currently learning **Golang**
