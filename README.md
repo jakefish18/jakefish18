@@ -55,7 +55,7 @@
 <div>
   
 ## My contacts 📫
-**Telegram**: @JakeFish<br>
+**Telegram**: [@JakeFish](https://t.me/JakeFish)<br>
 **E-mail**: jakefish.work@gmail.com
 
 ## Stats 📈
