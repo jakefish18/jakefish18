@@ -63,8 +63,8 @@ I'm first year computer science student at Innopolis University, Russia. I'm pas
 
 <div align="center">
   
-  ![JakeFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakefish18&show_icons=true&theme=tokyonight)
+  ![JakeFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakefish18&show_icons=true&theme=tokyonight&hide_rank=true)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakefish18&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakefish18&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakefish18&layout=donut&theme=tokyonight)
   
 </div>
