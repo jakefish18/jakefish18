@@ -2,7 +2,7 @@
 
 ## Bio 🧔
 I'm first year computer science student at Innopolis University, Russia. I'm passionate about backend development, so I would like to join any activity related with it. If you want to invite me to some project, just DM me in Telegram :)
-- 🔭 I’m currently working on **github.com/openingwiki**
+- 🔭 I’m currently working on **[github.com/openingwiki](https://github.com/openingwiki)**
 - 🌱 I’m currently learning **Golang**
 - 💥 I'm looking for collaboration as a **backend developer**
 - ⚡ Fun fact: I love **playing Celeste**
