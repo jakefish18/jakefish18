@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **github.com/openingwiki**
 - 🌱 I’m currently learning **Golang**
 - 💥 I'm looking for collaboration as a **backend developer**
-- ⚡ Fun fact: I love **Celeste**
+- ⚡ Fun fact: I love **playing Celeste**
 
 ## My tech stack 🧰
 <div>
