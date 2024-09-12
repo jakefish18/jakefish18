@@ -1,6 +1,6 @@
 ![Github](https://github.com/user-attachments/assets/5bfd9c00-7fef-4d5a-a5e3-0bd795bb5691)
 
-## Bio 🧔
+## Some info 🧔
 - 🔭 I’m currently working on **github.com/openingwiki**
 - 🌱 I’m currently learning **Golang**
 - 💥 I'm looking for collaboration as a **backend developer**
