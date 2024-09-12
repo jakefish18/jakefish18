@@ -1,11 +1,12 @@
 ![Github](https://github.com/user-attachments/assets/5bfd9c00-7fef-4d5a-a5e3-0bd795bb5691)
 
-## Hi there 👋
+## Bio 🧔
 - 🔭 I’m currently working on **github.com/openingwiki**
 - 🌱 I’m currently learning **Golang**
+- 💥 I'm looking for collaboration as a **backend developer**
 - ⚡ Fun fact: I love **Celeste**
 
-## My tech stack
+## My tech stack 🧰
 <div>
   
   **Programming languages**:<br>
@@ -35,7 +36,7 @@
 
 <div>
 
-  **Techonologies**:<br>
+  **Technologies**:<br>
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,11 +54,11 @@
 
 <div>
   
-## My contacts
+## My contacts 📫
 **Telegram**: @JakeFish<br>
 **E-mail**: jakefish.work@gmail.com
 
-## Stats
+## Stats 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakefish18&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakefish18&theme=tokyonight)](https://git.io/streak-stats)
