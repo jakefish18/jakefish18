@@ -1,7 +1,7 @@
 ![Github](https://github.com/user-attachments/assets/5bfd9c00-7fef-4d5a-a5e3-0bd795bb5691)
 
 ## Bio 🧔
-I'm first year computer science student at Innopolis University, Russia. I'm passionate about backend development, so I would like to join any activity related with it. If you want to invite me to some project, just DM me in Telegram :)
+I'm first year computer science student at Innopolis University, Russia. I'm passionate about backend development, so I'd like to join any activity related with it. If you want to invite me to some project, just DM me in Telegram :)
 - 🔭 I’m currently working on **[github.com/openingwiki](https://github.com/openingwiki)**
 - 🌱 I’m currently learning **Golang**
 - 💥 I'm looking for collaboration as a **backend developer**
